@@ -1,0 +1,1 @@
+Um aplicativo com objetivo de entretenimento e conhecimento através de informações referentes aos lugares, pessoas importantes e cultura recifenses (pratos típicos, hábitos, música, cinema, etc) utilizando jogos rápidos de exercícios da mente, como quebra-cabeças, jogo da memória e adivinhações.
